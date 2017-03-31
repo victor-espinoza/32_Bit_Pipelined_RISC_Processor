@@ -1,0 +1,27 @@
+ISim log file
+Running: C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2015\CECS 440\Lab 5 - Pipelined MIPS\lab5_Pipelined_MIPS\Pipelined_MIPS_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Victor Espinoza/Documents/Long Beach/Victor's Projects To Upload/Spring 2015/CECS 440/Lab 5 - Pipelined MIPS/lab5_Pipelined_MIPS/Pipelined_MIPS_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run all
+Stopped at time : 767290 ns : File "C:/Users/Victor Espinoza/Documents/Long Beach/Victor's Projects To Upload/Spring 2015/CECS 440/Lab 5 - Pipelined MIPS/lab5_Pipelined_MIPS/PipelinedMIPS.v" Line 442
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ 32 Largest Values sum: f78155dd
+32 Smallest Values sum: 23e4fe34
+    AND Every Location: xxxxxxxx
+     OR Every Location: ffffffff
+              Checksum: 58ae5216
+Stopped at time : 35444740 ns :  in File "C:/Users/Victor Espinoza/Documents/Long Beach/Victor's Projects To Upload/Spring 2015/CECS 440/Lab 5 - Pipelined MIPS/lab5_Pipelined_MIPS/Pipelined_MIPS_tb.v" Line 93 

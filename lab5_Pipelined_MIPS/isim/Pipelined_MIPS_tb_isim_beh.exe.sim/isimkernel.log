@@ -1,0 +1,28 @@
+Command line:
+   Pipelined_MIPS_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62688
+
+Thu Mar 16 18:47:53 2017
+
+
+ Elaboration Time: 0.826805 sec
+
+ Current Memory Usage: 1804.33 Meg
+
+ Total Signals          : 125
+ Total Nets             : 1937
+ Total Signal Drivers   : 92
+ Total Blocks           : 6
+ Total Primitive Blocks : 4
+ Total Processes        : 101
+ Total Traceable Variables  : 40
+ Total Scalar Nets and Variables : 69343
+
+ Total Simulation Time: 102.586 sec
+
+ Current Memory Usage: 1175.15 Meg
+
+Thu Mar 16 18:50:58 2017
+

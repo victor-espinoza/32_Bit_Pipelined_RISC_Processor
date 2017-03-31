@@ -1,0 +1,6 @@
+verilog work "register_file.v"
+verilog work "Controller.v"
+verilog work "ALU.v"
+verilog work "PipelinedMIPS.v"
+verilog work "Pipelined_MIPS_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
