@@ -1,6 +1,6 @@
 Project Overview:   
 
-32-Bit Pipelined RISC processor in Verilog along with sorting code written in Assembly.   
+32-Bit Pipelined Reduced Instruction Set Computer (RISC) processor in Verilog along with sorting code written in Assembly.
   
 This pipelined processor combines our previous labs of the register file and the ALU and implements them into a pipelined MIPS processor. The pipeline for this processor consists of three different phases: fetch, decode, and execute. Each instruction progresses through the different phases until it finishes in the execute phase.    
    
