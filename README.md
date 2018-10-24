@@ -1,6 +1,6 @@
-# Lab_5-_Pipelined_MIPS
 Project Overview:   
-32-Bit Pipelined MIPS processor in Verilog along with sorting code written in Assembly.   
+
+32-Bit Pipelined RISC processor in Verilog along with sorting code written in Assembly.   
   
 This pipelined processor combines our previous labs of the register file and the ALU and implements them into a pipelined MIPS processor. The pipeline for this processor consists of three different phases: fetch, decode, and execute. Each instruction progresses through the different phases until it finishes in the execute phase.    
    
@@ -79,7 +79,7 @@ Dependencies:
 This project was created using the Xilinx ISE Project Navigator Version: 14.7.  
 
 Project Verification:   
-This project was verified in the exact same format as the Single_Cycle MIPS processor (LAB_4).  
+This project was verified in the exact same format as the Single_Cycle RISC processor.  
   
 In order to verify the correctness of my project, I used a combination of looking at the waveforms, writing data to a file, and looking at the physical addresses of the data memory to make sure that everything was sorted correctly.  
   
